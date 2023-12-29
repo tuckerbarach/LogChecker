@@ -1,5 +1,5 @@
 **LogChecker**<br>
-A Python Discord Bot that enables tens of company contractors to complete their jobs more effectively and efficiently.
+A Python Discord Bot that enables contractors to complete their jobs more effectively and efficiently.
 
 **Motivation**<br>
 This project began as a personal tool to help me complete my company tasks quicker but bloomed into an overarching project that helped all contractors and some staff members who worked for this company. About 70 members total at the peak of this project.
